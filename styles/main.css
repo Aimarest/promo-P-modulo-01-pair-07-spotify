@@ -3,9 +3,10 @@
   color: white;
 }
 
-a {
+.menu_header .link {
   text-decoration: none;
   color: white;
+  list-style: none;
 }
 
 .body {
@@ -25,6 +26,9 @@ a {
 .plans {
   color: white;
   background-color: rgb(59, 168, 59);
+  border-radius: 20px;
+  display: inline-block;
+  padding: 10px;
 }
 
 .secondp {
